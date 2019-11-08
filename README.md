@@ -3,6 +3,7 @@
 A set of 104 free premium SVG icons.
 
 ![](preview.png)
+
 | Icon | name |
 | --- | --- |
 | ![](svg/icon-announcement.svg) | icon-announcement.svg |
